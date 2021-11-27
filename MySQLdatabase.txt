@@ -1,0 +1,11 @@
+what is database?
+  it is an application that stores the organized collection of records.
+  it can be accessed and managed by the user very easily.
+  it allows us to organize data into tables,rows,columns and indexes to find the relevent informaction very quickly
+what is MySQL?
+  database management system software and it is open-source software for managing the relactional database,
+  which is supported by oracle compeny.
+
+
+numeric Deta types:
+     
